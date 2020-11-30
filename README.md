@@ -1,4 +1,4 @@
-# Covid-19-X-rays-Classifier
+# Covid-19-X-rays-Classifier (2020 Spring)
 
 
 Classify Covid-19 X-ray images. 
